@@ -1,2 +1,5 @@
-# cvs-search
-sample code on pulling CVE vulnerability data and parsing it for your specific consumption
+# CVE-SEARCH
+
+### Copyright (C) 2023 Stefan Johansson (stefan@thejohanson.com)
+
+Just built the first version of this
